@@ -13,7 +13,7 @@ footer{
   justify-content: center;
   text-align: center;
   
-  margin-top: 200px; /*espacio entre cards y footer modificar luego*/
+  margin-top: 200px;  
  
 
 }
@@ -46,7 +46,9 @@ nav ul { list-style: none; }
 
 
  
-
+h1,h2,h4,h5{
+  font-family: 'Montserrat', sans-serif;
+}
 
 
 nav ul li a {
